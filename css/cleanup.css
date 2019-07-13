@@ -16,6 +16,10 @@ div#wall #tag-3.slick.wicked {
   display: block;
 }
 
+#wall .parent #tag-4 {
+  display: block;
+}
+
 div#wall div.parent #tag-5.slick {
   display: none;
 }
