@@ -17,11 +17,16 @@ div#wall #tag-3.slick.wicked {
 }
 
 #wall #tag-4 {
-  display: block;
+  display: none;
 }
 
 div#wall div.parent #tag-5.slick {
   display: none;
+}
+
+div#wall .parent #tag-5.slick {
+
+  display: block;
 }
 
 body div#wall div.parent div:last-child div#tag-6 {
